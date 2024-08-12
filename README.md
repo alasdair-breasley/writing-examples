@@ -14,7 +14,7 @@ Causal Inference - A matched Difference-in-Differences analysis to estimate the 
 
 Dissertation - Assessing Flood Risk for a Section of the Bintacan de Ilagan River, Isabela Province, Luzon Island, the Philippines [link](./MA%20Dissertation%20-%20The%20Philippines%20Flood%20Risk%20Modelling.pdf). Conducted in collaboration with the Philippines Department of Science and Technology, and the University of the Philippines. 
 
-## Professional Writing Examples - Publicaly Published 
+## Professional Writing Examples - Published 
 
 Examples provided here are publicaly available and non-confidential. 
 
