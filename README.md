@@ -8,6 +8,8 @@ This repo is for showcasing examples of my writing including course work, disser
 
 ### MDS Data Science (Social Analytics) 
 
+Dissertation - Assessing the Impact of Intercropping on Crop Type Classification Using Combined Multispectral and Synthetic Aperture Radar Satellite Imagery, Nyagatare, Rwanda [link](./MDS%20Dissertation%20-%20Rwanda%20Crop%20Type%20Classification.pdf). Conducted in collaboration with the National Institute of Statistics of Rwanda. 
+
 Causal Inference - A matched Difference-in-Differences analysis to estimate the impact of Minimum Unit Pricing on alcohol-attributable hospitalizations, Scotland [link](./Casual%20Inference%20-%20Estimating%20the%20Impact%20of%20Alcohol%20MUP%20Scotland.pdf). 
 
 ### MA Economics and Geography 
